@@ -28,8 +28,8 @@ Fanxiushu的软件做的真的很棒，对于他的能力我表示由衷的敬�
 
 ## 使用方法：
 
-前往[此处](https://github.com/fanxiushu/xdisp_virt/tree/edabb247f7057a9b79988e29911326f360ecea7b)下载指定版本的xdisp_virt.exe
+前往[此处](https://github.com/fanxiushu/xdisp_virt/tree/edabb247f7057a9b79988e29911326f360ecea7b)下载指定版本的xdisp_virt.exe，版本不同会破解失败。
 
-版本不同会破解失败。
+下载[Saturn Patcher](https://github.com/paysonism/1337-Patch-Tool/releases)，选取我制作的补丁文件和xdisp_virt.exe并点击应用。
 
-运行xdisp_virt.exe，出现菜单后开始应用补丁。
+完成。
