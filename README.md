@@ -18,7 +18,9 @@ Fanxiushu的软件做的真的很棒，对于他的能力我表示由衷的敬�
 
 非常抱歉，我实在没别的办法了，只能破解了。
 
-希望作者手下留情！
+此破解版本仅供学习交流使用，请勿用于商业用途！
+
+希望作者手下留情。
 
 
 ### 破解过后的效果：
@@ -28,8 +30,7 @@ Fanxiushu的软件做的真的很棒，对于他的能力我表示由衷的敬�
 
 ## 使用方法：
 
-前往[此处](https://github.com/fanxiushu/xdisp_virt/tree/edabb247f7057a9b79988e29911326f360ecea7b)下载指定版本的xdisp_virt.exe，版本不同会破解失败。
+前往[此处](https://github.com/fanxiushu/xdisp_virt/tree/edabb247f7057a9b79988e29911326f360ecea7b)下载指定版本的xdisp_virt.exe，版本不同会破解失败！
 
-下载[Saturn Patcher](https://github.com/paysonism/1337-Patch-Tool/releases)，选取我制作的补丁文件和xdisp_virt.exe并点击应用。
+将补丁文件与xdisp_virt.exe放置在同一目录下，运行patch.bat开始破解。
 
-完成。
